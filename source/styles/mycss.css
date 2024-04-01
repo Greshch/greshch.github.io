@@ -5,3 +5,7 @@
 .navbar-nav .nav-link.active {
     color: rgb(143, 142, 143);
 }
+
+.navbar-brand img {
+    width: 40px;
+}

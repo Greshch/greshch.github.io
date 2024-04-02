@@ -25,3 +25,8 @@ body {
     color: aquamarine;
     background: linear-gradient(270deg, #2b00ff 0%, #171717 100%);
 }
+
+.card {
+    background: linear-gradient(270deg, #2b00ff 0%, #171717 100%);
+    color: aquamarine;
+}

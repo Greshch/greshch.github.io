@@ -41,6 +41,12 @@ footer {
     background: linear-gradient(270deg, #2b00ff 0%, #171717 100%);
 }
 
+.media-links {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 @media (max-width: 755) {
     .carousel-indicators {
         display: none;

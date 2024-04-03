@@ -37,6 +37,10 @@ body {
     margin: auto auto;
 }
 
+footer {
+    background: linear-gradient(270deg, #2b00ff 0%, #171717 100%);
+}
+
 @media (max-width: 755) {
     .carousel-indicators {
         display: none;

@@ -30,3 +30,14 @@ body {
     background: linear-gradient(270deg, #2b00ff 0%, #171717 100%);
     color: aquamarine;
 }
+
+.slide-text {
+    color: aquamarine;
+    margin: auto auto;
+}
+
+@media (max-width: 755) {
+    .carousel-indicators {
+        display: none;
+    }
+}

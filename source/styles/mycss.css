@@ -31,7 +31,8 @@ body {
     color: aquamarine;
 }
 
-.slide-text {
+.slide-text,
+.footer-text {
     color: aquamarine;
     margin: auto auto;
 }

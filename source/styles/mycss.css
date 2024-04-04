@@ -5,6 +5,10 @@ body {
     background: linear-gradient(90deg, #2b00ff 0%, #171717 100%);
 }
 
+p {
+    color: aquamarine;
+}
+
 .nav-link {
     color: aquamarine;
 }

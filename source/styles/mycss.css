@@ -52,10 +52,10 @@ footer {
 }
 
 .call-anim {
-    animation: myAnim 2s ease 0s 1 normal forwards;
+    animation: call 2s ease 0s 1 normal forwards;
 }
 
-@keyframes myAnim {
+@keyframes call {
 	0%,
 	100% {
 		transform: translateX(0%);
